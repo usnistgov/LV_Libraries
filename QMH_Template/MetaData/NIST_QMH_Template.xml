@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
+<MetaData>
+  <ProjectTemplate>
+    <Title>NISTQMH</Title>
+    <Description>Template based on a Queued Message Handler pattern.</Description>
+    <Filters>NIST</Filters>
+    <LocationPath>NIST/QMH_Template</LocationPath>
+    <ProjectPath>QMH_Template.lvproj</ProjectPath>&gt;
+    <ListboxImagePath>images/NIST.png</ListboxImagePath>
+  </ProjectTemplate>
+</MetaData>

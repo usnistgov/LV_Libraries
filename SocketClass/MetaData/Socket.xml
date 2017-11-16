@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
+<MetaData>
+  <ProjectTemplate>
+    <Title>Socket</Title>
+    <Description>Class hierarchy for TCP, UDP, or VISA Communications</Description>
+    <Filters>NIST</Filters>
+    <LocationPath>NIST/Socket</LocationPath>
+    <ProjectPath>Socket.lvproj</ProjectPath>&gt;
+    <ListboxImagePath>images/NIST.png</ListboxImagePath>
+  </ProjectTemplate>
+</MetaData>

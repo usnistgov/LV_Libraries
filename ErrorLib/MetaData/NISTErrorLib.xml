@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
+<MetaData>
+  <ProjectTemplate>
+    <Title>NISTErrorLib</Title>
+    <Description>NIST Error Handler.</Description>
+    <Filters>NIST</Filters>
+    <LocationPath>NIST/NistErrorLib</LocationPath>
+    <ProjectPath>NISTErrorLib.lvproj</ProjectPath>&gt;
+    <ListboxImagePath>images/NIST.png</ListboxImagePath>
+  </ProjectTemplate>
+</MetaData>

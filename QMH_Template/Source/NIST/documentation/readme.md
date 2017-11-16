@@ -1,0 +1,1 @@
+NIST Queued Message Handler (QMH) pattern project template.
