@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-06-14 12:17:26" Modified_Date="2019-06-04 14:14:07" Creator="Allen Goldstein" Comments="" ID="8116b46ca0bda6da7c275f9044961cf8">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-06-14 12:17:26" Modified_Date="2019-06-05 09:44:54" Creator="Allen Goldstein" Comments="" ID="62b2a0edb1e417c8904b5bc809cac973">
   <Library_General_Settings>
     <Package_File_Name>NIST_lib_NistModuleAdminLib</Package_File_Name>
     <Library_Version>2.3.0.12</Library_Version>
@@ -109,10 +109,10 @@
         <Namespace/>
       </Namespace_Overrides>
       <Exclusions>
-        <Path>nist_lib_moduleadminlib-2.1.0.4.vip</Path>
+        <Path>CloneRegistration/Public/Ref.vi</Path>
       </Exclusions>
       <Exclusions>
-        <Path>CloneRegistration/Public/Ref.vi</Path>
+        <Path>nist_lib_nistmoduleadminlib-2.2.0.10.vip</Path>
       </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>Documentation\LICENSE.txt</License_Agreement_Filepath>
@@ -255,7 +255,7 @@
         <Path>NistModuleAdminBase</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7A94EA380F235CCD3EAD88C7E979739E</GUID>
+      <GUID>CF05FB5153C890FD0F25A2A9FD002752</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -360,7 +360,7 @@
         <Path>ModuleAdmin\ModuleSync\TestModuleSync.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5D0E753646CB117989D7141A5E4D9E51</GUID>
+      <GUID>C60B64B17ABAF0391AAB5D4C95D7D84F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -479,7 +479,7 @@
         <Path>CloneRegistration\Public\Remove.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6947E0B9C0F22006E8DBD8B44D76CFA0</GUID>
+      <GUID>7F37014C714478A8E7B06D0137C3C0A4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -570,7 +570,7 @@
         <Path>ModuleAdmin\ModuleName.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>11EC682E060A782254CA30A158A18DF7</GUID>
+      <GUID>036C5DF85CDE107527AD51BB01206C2F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -619,7 +619,7 @@
         <Path>ModuleAdminBase\Reset.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>70B3AB773007357F87B7FD711DF6AC57</GUID>
+      <GUID>CC2F7A08E4FE4176E1E38E3654734EC7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -654,7 +654,7 @@
         <Path>ModuleAdmin\ModuleSync\Private\GetSyncRefnums.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>97BFA0427572754D1F9EFC0A2779E9D0</GUID>
+      <GUID>B6C89BC905B331FEB57A771CE31DE386</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -759,7 +759,7 @@
         <Path>ModuleAdmin\Accessors\Write ModuleName.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>27707DD344AE0713D1B45CC2E0DD43F4</GUID>
+      <GUID>50072C1220E80AD9785C914630CA316F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -808,7 +808,7 @@
         <Path>ModuleAdminBase\Accessors\Write External Launch.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AF5C1F4EBE99617D8607B1D5E60A0098</GUID>
+      <GUID>9C226F574B8293BC5DA5DC8FE1223E79</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
