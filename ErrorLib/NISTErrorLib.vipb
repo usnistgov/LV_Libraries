@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2016-10-03 17:01:12" Modified_Date="2020-09-28 14:14:52" Creator="gra1" Comments="" ID="5cc53265f56a22132f1ca095912528a7">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2016-10-03 17:01:12" Modified_Date="2020-10-06 14:17:51" Creator="gra1" Comments="" ID="e4cf39727e8f4201bd19984526c3f5b3">
   <Library_General_Settings>
     <Package_File_Name>NIST_lib_NISTErrorLib</Package_File_Name>
-    <Library_Version>2.0.0.4</Library_Version>
+    <Library_Version>2.0.1.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -32,7 +32,8 @@
       <Copyright>none</Copyright>
       <Packager>Allen Goldstein</Packager>
       <URL/>
-      <Release_Notes>Added handling for automatic error handling</Release_Notes>
+      <Release_Notes>Added handling for automatic error handling
+fixed the automatictimeout </Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -283,7 +284,7 @@
         <Path>Source\TestError.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AF998FCEC888FB9CB6CC2717CF649DD9</GUID>
+      <GUID>8A95C80D4B549E6C74E6C79A5B41292F</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -318,7 +319,7 @@
         <Path>Source\eDialogType.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>83093CCFACE4101F3CFD2515641E14D6</GUID>
+      <GUID>11D6705743EE3D24C08D5110A322B805</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
