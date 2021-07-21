@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2017-06-14 12:17:26" Modified_Date="2021-07-15 13:46:35" Creator="Allen Goldstein" Comments="" ID="91d3617cdddbd19d82e7be8210982361">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2017-06-14 12:17:26" Modified_Date="2021-07-21 15:11:20" Creator="Allen Goldstein" Comments="" ID="126ded781c1b9fcdc87908441daf4a68">
   <Library_General_Settings>
     <Package_File_Name>NIST_lib_NistModuleAdminLib</Package_File_Name>
-    <Library_Version>2.5.0.16</Library_Version>
+    <Library_Version>2.6.0.17</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -34,7 +34,9 @@
       <Copyright>none</Copyright>
       <Packager>Allen Goldstein</Packager>
       <URL/>
-      <Release_Notes>Added an input to allow the user to determine whether to close the queue references </Release_Notes>
+      <Release_Notes>Added queue properties to the ModuleAdmin class
+Added queue operations such as enqueue, dequeue, and close queue
+Added support type definitions for the queue operations </Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -260,7 +262,7 @@
         <Path>NistModuleAdminBase</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>782D71F4A2D26378AC420ADDC814E09E</GUID>
+      <GUID>44AC4C7604105CA8C2AC744A2E466EDA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -365,7 +367,7 @@
         <Path>ModuleAdmin\ModuleSync\TestModuleSync.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4293135883AC9B85155B1159EE29FBD9</GUID>
+      <GUID>B38A8D14A7DEFCEED62EA3559ED8707B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -484,7 +486,7 @@
         <Path>CloneRegistration\Public\Remove.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>15661E5A70136BF4CFBC3CCAB2498AE0</GUID>
+      <GUID>8599BFF242BAA9EC9EDF97E15CDC1260</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -575,7 +577,7 @@
         <Path>ModuleAdmin\ModuleName.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F047E6B2E8E3C6B366B1988902F6D0C9</GUID>
+      <GUID>E7061BC5EDCEDAE4B26E4877FCA9B6D5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -624,7 +626,7 @@
         <Path>ModuleAdminBase\Reset.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8D3D072016264365CE3AEB808631076C</GUID>
+      <GUID>1DD7EE43C339593679F66DECE4F3309E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -659,7 +661,7 @@
         <Path>ModuleAdmin\ModuleSync\Private\GetSyncRefnums.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FF8A654FE0176B5ADF16F2A0C57F6718</GUID>
+      <GUID>6F4902635ABFFFC3D366B75840C0C1FB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -764,7 +766,7 @@
         <Path>ModuleAdmin\Accessors\Write ModuleName.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B2FB185AF06D3E1D8FE01C50B3B8CFD1</GUID>
+      <GUID>910524F03F10B3793602980542F092BF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -813,7 +815,7 @@
         <Path>ModuleAdminBase\Accessors\Write External Launch.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9FF3C4F306963F99D3131DEA07999D44</GUID>
+      <GUID>D0FF5B305A296CB2550BED821AB176D7</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
