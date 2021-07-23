@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2017-06-14 12:17:26" Modified_Date="2021-07-23 11:26:27" Creator="Allen Goldstein" Comments="" ID="b4659a66b65eebce1478bd9452bf9e47">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2017-06-14 12:17:26" Modified_Date="2021-07-23 14:01:13" Creator="Allen Goldstein" Comments="" ID="765a3e7546fcec2b7f097d5100236776">
   <Library_General_Settings>
     <Package_File_Name>NIST_lib_NistModuleAdminLib</Package_File_Name>
-    <Library_Version>2.7.0.24</Library_Version>
+    <Library_Version>2.7.0.25</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -120,13 +120,7 @@ Added support type definitions for the queue operations </Release_Notes>
         <Path>CloneRegistration/Public/Ref.vi</Path>
       </Exclusions>
       <Exclusions>
-        <Path>nist_lib_nistmoduleadminlib-2.7.0.20.vip</Path>
-      </Exclusions>
-      <Exclusions>
-        <Path>nist_lib_nistmoduleadminlib-2.7.0.21.vip</Path>
-      </Exclusions>
-      <Exclusions>
-        <Path>nist_lib_nistmoduleadminlib-2.7.0.22.vip</Path>
+        <Path>nist_lib_nistmoduleadminlib-2.7.0.23.vip</Path>
       </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>Documentation\LICENSE.txt</License_Agreement_Filepath>
@@ -269,7 +263,7 @@ Added support type definitions for the queue operations </Release_Notes>
         <Path>NistModuleAdminBase</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>23147BB45DFD0BE09900AFDC356B68F6</GUID>
+      <GUID>035BB7A9527E7A9DDAA0464806082BB3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -374,7 +368,7 @@ Added support type definitions for the queue operations </Release_Notes>
         <Path>ModuleAdmin\ModuleSync\TestModuleSync.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F62D5686374036C4CCCC0A76440DF881</GUID>
+      <GUID>A267A5EBEA4A8D3D84FB14C9B1FB76A4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -493,7 +487,7 @@ Added support type definitions for the queue operations </Release_Notes>
         <Path>CloneRegistration\Public\Remove.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C111351F97DD4FF4B32F5D166886A4D8</GUID>
+      <GUID>62FBE126D4DD69FF984F25ED369F80FB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -626,7 +620,7 @@ Added support type definitions for the queue operations </Release_Notes>
         <Path>ModuleAdmin\Dequeue.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>875F1F95783522AFA69150A41FD5FF5D</GUID>
+      <GUID>2941D5B65C214DBB0A981B9D13BD679E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -675,7 +669,7 @@ Added support type definitions for the queue operations </Release_Notes>
         <Path>ModuleAdminBase\Reset.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FFDC4E61099F6AD06572BBF4EE6F5BF0</GUID>
+      <GUID>F0B5600105438D9701957A5BEC12A547</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -710,7 +704,7 @@ Added support type definitions for the queue operations </Release_Notes>
         <Path>ModuleAdmin\ModuleSync\Private\GetSyncRefnums.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A06712D12B7EF7C92BF189FDCD387C6F</GUID>
+      <GUID>9922BEC67DAE6DA872B209E250F7C665</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -815,7 +809,7 @@ Added support type definitions for the queue operations </Release_Notes>
         <Path>ModuleAdmin\Accessors\Write ModuleName.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0FF74ADB7588BD78F1BF6FE37A09A7B3</GUID>
+      <GUID>86E6D96E8FF1D6AE637D7B18CD528482</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -864,7 +858,7 @@ Added support type definitions for the queue operations </Release_Notes>
         <Path>ModuleAdminBase\Accessors\Write External Launch.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CC3379ACB778DBE0A4EE6F6CF04171E0</GUID>
+      <GUID>B41CD846F36FE4E859EEC86F1D1797A7</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
